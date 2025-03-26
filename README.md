@@ -41,6 +41,9 @@
   <a href="linkedin.com/in/isaaccami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+<a href="https://www.notion.so/Isaac-s-Portfolio-1bd37e26be01808788f3efa8fdb93362" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/250/FFFFFF/notion.png" height="35" alt="notion" />
+</a>
 </div>
 
 ###
