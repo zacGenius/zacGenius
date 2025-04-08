@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="35" alt="scala logo"  />
-  <img align="right" height="150" src="https://i.ibb.co/v43PC8Sp/teste2.jpg"  />
 </p>
 
 ###
