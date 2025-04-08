@@ -1,8 +1,9 @@
-<h2 align="left">Hi! My name is Isaac Camilo and I'm a Data Engineer!</h2>
+<h3 align="center">Hi! My name is Isaac Camilo and I'm a Data Engineer!</h3>
+<h3 align="center">Data Engineer | Big Data</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zacGenius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -12,7 +13,8 @@
 
 ###
 
-<div align="left">
+<h2 align="left">Languages and Tools I Know:</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -30,10 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
-</div>
+</p>
 
 ###
 
+<h2 align="left">Social Network:</h3>
+<p align="left">
 <div align="left">
   <a href="isaac.cami42@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -44,7 +48,7 @@
 <a href="https://www.notion.so/Isaac-s-Portfolio-1bd37e26be01808788f3efa8fdb93362" target="_blank">
   <img src="https://img.icons8.com/ios-filled/250/FFFFFF/notion.png" height="35" alt="notion" />
 </a>
-</div>
+</p>
 
 ###
 
