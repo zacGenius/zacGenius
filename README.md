@@ -45,3 +45,11 @@
 </a>
 </p>
 
+```mermaid
+graph TD
+    A[Cliente] -->|SYN| B(Servidor)
+    B -->|SYN-ACK| A
+    A -->|ACK| B
+    A -->|Dados| B
+    B -->|Dados| A
+```
