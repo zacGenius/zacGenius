@@ -44,12 +44,3 @@
   <img src="https://img.icons8.com/?size=100&id=zezJrErrmcwx&format=png&color=000000" height="35" alt="instagram" />
 </a>
 </p>
-
-```mermaid
-graph TD
-    A[Cliente] -->|SYN| B(Servidor)
-    B -->|SYN-ACK| A
-    A -->|ACK| B
-    A -->|Dados| B
-    B -->|Dados| A
-```
