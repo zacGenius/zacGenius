@@ -26,21 +26,32 @@
 <img src="https://github.com/JhArantes/JhArantes/blob/main/Img/Pbix_Logo.png?raw=true" height="35" alt="bi logo"  />
 </p>
 
+## 🌐 **Portfolio**
+> Explore my portfolio to see a selection of my work and projects I've developed. If you're interested in discussing opportunities or potential collaborations, I'd love to connect.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio)
+
+### 🔧 **Skills**
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap, and ReactJS.
+- **Backend Development**: Scala and Python.
+- **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
+- **Framework**: TensorFlow, ApacheSpark and ApacheNifi
+
+### 🛠️ **Other Tools**
+- **Project Management**: Trello, Jira.
+- **Office Tools**: Microsoft Word, Excel, PowerPoint.
+- **Design Tools**: Canva, for creating standout visual presentations.
+
+My goal is to keep improving, turn my ideas into reality, and deliver projects that stand out for their quality and innovation.
+
 ###
 
 <h2 align="left">Social Network:</h3>
 <p align="left">
 <div align="left">
-  <a href="isaac.cami4242@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/isaaccami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-<a href="https://closed-rhinoceros-e16.notion.site/Isaac-s-Portfolio-1bd37e26be01808788f3efa8fdb93362" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/250/FFFFFF/notion.png" height="35" alt="notion" />
+<a href="mailto:isaac.cami4242@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://www.instagram.com/zacdatagod/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=zezJrErrmcwx&format=png&color=000000" height="35" alt="instagram" />
+<a href="https://www.linkedin.com/in/isaaccami/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 </a>
 </p>
