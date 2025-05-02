@@ -40,7 +40,7 @@
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira.
 - **Office Tools**: Microsoft Word, Excel, PowerPoint.
-- **Design Tools**: Canva, for creating standout visual presentations.
+- **Design Tools**: Canva and Figma.
 
 My goal is to keep improving, turn my ideas into reality, and deliver projects that stand out for their quality and innovation.
 
