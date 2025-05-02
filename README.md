@@ -36,6 +36,7 @@
 - **Backend Development**: Scala and Python.
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
 - **Framework**: TensorFlow, ApacheSpark and ApacheNifi
+- **DataWarehouse**: Snowflake
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira.
