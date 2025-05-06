@@ -15,10 +15,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio)
 
 ### 🔧 **Skills**
-- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap, and ReactJS.
+- **Frontend Development**: HTML, CSS, JavaScript and ReactJS.
 - **Backend Development**: Scala and Python.
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
-- **Framework**: TensorFlow, ApacheSpark and ApacheNifi
+- **Framework**: TensorFlow, Apache Airflow, ApacheSpark and ApacheNifi
 - **DataWarehouse**: Snowflake
 
 ### 🛠️ **Other Tools**
