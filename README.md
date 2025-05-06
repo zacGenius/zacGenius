@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools I Know:</h3>
+<h2 align="left">🪛 Languages and Tools I Know:</h3>
 <p align="left">
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,tailwind,nodejs,docker,figma,github,vercel,mongodb,postgres,python,scala,bash,nix,flask,mysql,nodejs" />
