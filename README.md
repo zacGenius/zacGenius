@@ -1,12 +1,13 @@
-<h1 align="center">Hi! My name is Isaac Camilo and I'm a Data Engineer! 🚀</h1>
-<h2 align="center">Data Engineer | Big Data ⚙️</h2>
+<h1 align="center">Hi! My name is Isaac Camilo and I'm a Data Scientist! 🚀</h1>
+<h2 align="center">Data Scientist | Big Data ⚙️</h2>
 
 ###
 
 <h2 align="left">🪛 Languages and Tools I Know:</h3>
 <p align="left">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,tailwind,nodejs,docker,figma,github,vercel,mongodb,postgres,python,scala,bash,nix,flask,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=figma,github,vercel,mongodb,postgres,python,mysql,anaconda" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/pandas.svg' />
 </a>
 
 ## 🌐 **Portfolio**
@@ -15,8 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio)
 
 ### 🔧 **Skills**
-- **Frontend Development**: HTML, CSS, JavaScript and ReactJS.
-- **Backend Development**: Scala and Python.
+- **Backend Development**: Python.
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
 - **Framework**: TensorFlow, Apache Airflow, ApacheSpark and ApacheNifi
 - **DataWarehouse**: Snowflake
