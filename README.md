@@ -17,8 +17,7 @@
 ### 🔧 **Skills**
 - **Backend Development**: Python.
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
-- **Framework**: TensorFlow, Apache Airflow, ApacheSpark and ApacheNifi
-- **DataWarehouse**: Snowflake
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira.
