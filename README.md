@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=figma,github,vercel,mongodb,postgres,python,mysql,anaconda" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/pandas.svg' />
 </a>
 
 ## 🌐 **Portfolio**
