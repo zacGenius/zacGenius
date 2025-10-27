@@ -1,5 +1,5 @@
-<h1 align="center">Hi! My name is Isaac Camilo and I'm a Data Scientist! 🚀</h1>
-<h2 align="center">Data Scientist | Big Data ⚙️</h2>
+<h1 align="center">Hi! My name is Isaac Camilo! </h1>
+<h2 align="center">Data Scientist | Machine Learning </h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira.
-- **Office Tools**: Microsoft Word, Excel, PowerPoint.
+- **Office Tools**: Microsoft Word, Excel, PowerPoint, PowerBi.
 - **Design Tools**: Canva and Figma.
 
 My goal is to keep improving, turn my ideas into reality, and deliver projects that stand out for their quality and innovation.
