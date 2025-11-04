@@ -9,10 +9,10 @@
   <img src="https://skillicons.dev/icons?i=figma,github,vercel,mongodb,postgres,python,mysql,anaconda" />
 </a>
 
-## 🌐 **Portfolio**
-> Explore my portfolio to see a selection of my work and projects I've developed. If you're interested in discussing opportunities or potential collaborations, I'd love to connect.
+<!-- ## 🌐 **Portfolio** -->
+<!-- > Explore my portfolio to see a selection of my work and projects I've developed. If you're interested in discussing opportunities or potential collaborations, I'd love to connect. -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio) -->
 
 ### 🔧 **Skills**
 - **Backend Development**: Python.
