@@ -6,7 +6,7 @@
 <h2 align="left">🪛 Languages and Tools I Know:</h3>
 <p align="left">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker,git" />
 </a>
 
 <!-- ## 🌐 **Portfolio** -->
