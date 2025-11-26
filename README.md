@@ -1,12 +1,12 @@
 <h1 align="center">Hi! My name is Isaac Camilo! </h1>
-<h2 align="center">Data Scientist | Machine Learning </h2>
+<h2 align="center">Data Engineer | Machine Learning </h2>
 
 ###
 
 <h2 align="left">🪛 Languages and Tools I Know:</h3>
 <p align="left">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker,git" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker,git,ubuntu" />
 </a>
 
 <!-- ## 🌐 **Portfolio** -->
