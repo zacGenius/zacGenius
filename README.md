@@ -18,7 +18,7 @@
 - **Backend Development**: Python, Docker. Apache Airflow, Apache Kafka
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
-- **AWS**: Redshift, EC2, S3
+- **AWS**: Redshift, EC2, S3, Glue
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira, Teams, ClickUp.
