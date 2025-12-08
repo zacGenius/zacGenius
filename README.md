@@ -6,7 +6,7 @@
 <h2 align="left">🪛 Languages and Tools I Know:</h3>
 <p align="left">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker,git,ubuntu,flask,aws,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vercel,mongodb,postgres,python,mysql,anaconda,docker,git,ubuntu,flask,aws,bash,airflow" />
 </a>
 
 <!-- ## 🌐 **Portfolio** -->
@@ -15,9 +15,10 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio) -->
 
 ### 🔧 **Skills**
-- **Backend Development**: Python, Docker.
+- **Backend Development**: Python, Docker. Apache Airflow, Apache Kafka
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
+- **AWS**: Redshift, EC2, S3
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira, Teams, ClickUp.
