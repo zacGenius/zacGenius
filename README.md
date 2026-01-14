@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Isaac Camilo! </h1>
-<h2 align="center">Data Engineer | Machine Learning </h2>
+<h2 align="center">Data Engineer</h2>
 
 ###
 
