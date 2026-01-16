@@ -15,10 +15,11 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Isaac%20Camilo-blue?style=flat-square&logo=firefox)](https://zacgenius.github.io/zac-portfolio) -->
 
 ### 🔧 **Skills**
-- **Backend Development**: Python, Docker. Apache Airflow, Apache Kafka
+- **Backend Development**: Python, PySpark, Docker. Apache Airflow, Apache Spark
 - **Database Expertise**: MySQL, MSQL Server, PostgreSQL, Oracle and MongoDB.
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
 - **AWS**: Redshift, EC2, S3, Glue
+- **OS**: Windows & Linux (Ubuntu/ArchLinux)
 
 ### 🛠️ **Other Tools**
 - **Project Management**: Trello, Jira, Teams, ClickUp.
